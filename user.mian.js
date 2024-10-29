@@ -2,9 +2,11 @@
 // @name         ニコニコ汉化插件
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  在ニコニコ页面上汉化指定词条
+// @description  ニコニコ汉化插件，ニコニコ中文化界面
 // @match        https://*.nicovideo.jp/*
 // @grant        none
+// @author       TC999
+// @icon         https://resource.video.nimg.jp/uni/images/favicon/32.png
 // ==/UserScript==
 
 (function() {
@@ -85,7 +87,7 @@
         // 添加更多需要替换的词条
     };
 
-    const regexTranslations = [ // 正则翻译
+    const regexTranslations = [ // 正则翻译，暂时不起作用
         { pattern: /(\w+)で登录/g, replacement: "用$1登录" },  // 例如将“Appleでログイン”替换为“用Apple登录”
         [/([^ ]+) を含むタグ一覧/, "包含$1的标签"],
     ];
