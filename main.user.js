@@ -6,7 +6,9 @@
 // @match        https://*.nicovideo.jp/*
 // @grant        none
 // @author       TC999
+// @license      GPL-3.0
 // @icon         https://resource.video.nimg.jp/uni/images/favicon/32.png
+// @supportURL   https://github.com/TC999/niconico-Chinese/issues
 // ==/UserScript==
 
 (function() {
