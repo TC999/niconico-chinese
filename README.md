@@ -35,7 +35,7 @@ Via 浏览器（Android）                | 浏览器内自带
 
 ## ✨ 贡献
 
-翻译词条来自[MoJi辞書](mojidict.com)，部分参考[BiliBili](bilibili.com)
+翻译词条来自[MoJi辞書](https://mojidict.com)，部分参考[BiliBili](https://bilibili.com)
 
 目前已翻译部分常用页面，欢迎补充完善，中文词条在`main.user.js`中
 
