@@ -298,7 +298,10 @@
         // 错误页面
             "403 ERROR": "403错误",
             "The request could not be satisfied.": "请求无法满足。",
-            "Request blocked. We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.": "请求被阻止。我们目前无法连接到此应用或网站的服务器。可能是流量过大或配置错误。请稍后重试，或联系应用或网站所有者。",
+            "Request blocked.": "请求被阻止。",
+                "We can't connect to the server for this app or website at this time.": "我们目前无法连接到此应用或网站的服务器。",
+                "There might be too much traffic or a configuration error.": "可能是流量过大或配置错误。",
+                "Try again later, or contact the app or website owner.": "请稍后重试，或联系应用或网站所有者。",
             "If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.": "如果您通过 CloudFront 向客户提供内容，则可以通过查看 CloudFront 文档找到排除故障并帮助防止此错误的步骤。",
         // 添加更多需要替换的词条
     };
