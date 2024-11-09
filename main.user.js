@@ -52,6 +52,7 @@
             "マンガ": "漫画",
             "クリエイター収入": "创作者收入",
             "クリエイターサポートツール": "创作者支持工具",
+        "ポイント": "点数", // 外来语换汉字词
         // 中间
         "動画を検索": "视频搜索",
         "【重要／国内外からニコニコをご利用の皆様へ】ニコニコ規約／ニコニコ活動ガイドラインの一部改訂について": "【重要/致国内外使用 ニコニコ 的用户】关于 ニコニコ 规则/ニコニコ 活动指南的部分修订",
@@ -295,6 +296,19 @@
 
             "この機能は利用できません": "此功能不可用",
         
+        // 账户设定
+            "プロフィール": "个人资料",
+                "タイムゾーン": "时区",
+            "メールアドレス": "邮箱地址",
+            "ブロック設定": "黑名单設定",
+            "セキュリティ": "安全",
+            // 表示設定
+                "一部デバイスでのセンシティブなコンテンツの表示": "在部分设备上显示敏感内容",
+            "アクティビティ": "活动",
+            "ブラウザのプッシュ": "浏览器推送",
+            "ニンテンドーネットワーク": "任天堂网络",
+            "アプリケーション": "应用程序",
+        
         // 错误页面
             "403 ERROR": "403错误",
             "The request could not be satisfied.": "请求无法满足。",
@@ -303,6 +317,8 @@
                 "There might be too much traffic or a configuration error.": "可能是流量过大或配置错误。",
                 "Try again later, or contact the app or website owner.": "请稍后重试，或联系应用或网站所有者。",
             "If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.": "如果您通过 CloudFront 向客户提供内容，则可以通过查看 CloudFront 文档找到排除故障并帮助防止此错误的步骤。",
+
+            "Currently not available": "目前不可用",
         // 添加更多需要替换的词条
     };
 
